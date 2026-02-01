@@ -1,0 +1,28 @@
+{
+  "name": "steve-paul-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Steve Paul - DevOps Engineer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "devops",
+    "aws"
+  ],
+  "author": "Steve Paul",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
