@@ -127,7 +127,7 @@ Edit `public/css/styles.css` - update the CSS variables in the `:root` section:
 
 **Steve Paul**
 - Email: maxlachanagain@gmail.com
-- Phone: +91-9497319291
+- Phone: +91-9497********
 - LinkedIn: [linkedin.com/in/stevepaul92](https://linkedin.com/in/stevepaul92)
 - Location: Bangalore, India
 
